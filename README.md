@@ -1,6 +1,6 @@
 # Git DIB Training Part 2
 
-This is an edit from [Github](http://www.github.com)
+This is an edit from [Github](https://www.github.com)
 
 Today we will discuss:
 
