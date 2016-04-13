@@ -1,3 +1,12 @@
-hello, how are you
+# Git DIB Training Part 2
 
-git training part 2
+This is an edit from [Github](www.github.com)
+
+Today we will discuss:
+
+-conflicts
+-branches
+-merging
+- pull reuests
+- forks
+- etc...
