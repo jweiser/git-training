@@ -4,9 +4,9 @@ This is an edit from [Github](www.github.com)
 
 Today we will discuss:
 
--conflicts
--branches
--merging
+- conflicts
+- branches
+- merging
 - pull reuests
 - forks
 - etc...
